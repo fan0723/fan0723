@@ -8,8 +8,8 @@
 ## 實驗室之外 (Beyond the Lab)
 
 * **管樂與小號 (Trumpeter)** 我是一名經驗豐富的小號手，累積了許多舞台演出經驗。目前固定參與**開南大學**、**北科大**與**交通大學**管樂團，同時也是**躍聲管樂團**與**方舟附管**的現任小號手。
-  🎵 [Danzón No.2 with 交大管樂團](https://youtu.be/Sb0CP_gJaAQ?si=Mr9XqOmsl1LacXTp&t=454)*
-  🎵 [The Divine Comedy: IV. Paradiso with 方舟附管](https://www.instagram.com/reel/DVi4G2fk8Im/?igsh=MWRwYzlha2k0Mnp3dw==)
+  * 🎵 [Danzón No.2 with 交大管樂團](https://youtu.be/Sb0CP_gJaAQ?si=Mr9XqOmsl1LacXTp&t=454)*
+  * 🎵 [The Divine Comedy: IV. Paradiso with 方舟附管](https://www.instagram.com/reel/DVi4G2fk8Im/?igsh=MWRwYzlha2k0Mnp3dw==)
   
 
 * **抱石與攀岩 (Bouldering)**  V4 Climber，不過受傷努力休養回血中...
