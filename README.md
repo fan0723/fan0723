@@ -1,4 +1,7 @@
 *Read this in other languages: [繁體中文](README_zh-TW.md).*
+
+[03/17] 🎉 Our paper, *Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction*, has been accepted by IEEE Transactions on Emerging Topics in Computing (TETC)!
+
 ## 👋 About Me
 
 I am a Ph.D. student in the Department of Computer Science at National Tsing Hua University (NTHU), dedicated to exploring the intersection of **cryptography** and **practical AI applications**. My research focuses on building efficient and secure Verifiable AI systems using techniques such as Zero-Knowledge Proofs (ZKP), Homomorphic Encryption (HE), and Differential Privacy (DP).
@@ -26,7 +29,8 @@ My academic journey began during my undergraduate studies, where I focused on wi
 ## 📝 Publications
 
 ### International Conferences & Journals
-1. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by IEEE International Conference on Communications (IEEE ICC)*. 🇬🇧 **(Will be presenting in the UK)**
+1. **Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *Accept by IEEE Transactions on Emerging Topics in Computing*. (2026-03-17)
+2. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by IEEE International Conference on Communications (IEEE ICC)*. 🇬🇧 **(Will be presenting in the UK)**
    * **Technical Contribution:** Led the optimization of the system architecture, rewriting of the fixed-point zk-SNARK algorithm, and experimental verification of system performance.
 2. Sheng-Chieh Hung, **Chen-Fan Chang**, Yu-Chi Chen, Yu-Ming Chang, Yu-Ta Lin, Michael Lin, "[Privacy-Enhancing LLM-Based Synthetic Dataset Generation by LoRA Fine-Tuning and Prompting](https://doi.org/10.1109/DSC65356.2025.11260873)," *IEEE Conference on Dependable and Secure Computing (DSC)*. 🏆 **(Best Poster Award)**
    * **Technical Contribution:** Participated in practical architecture construction and the ideation of core implementation methodologies.
@@ -34,7 +38,7 @@ My academic journey began during my undergraduate studies, where I focused on wi
 4. Yi-Huai Hsu, **Chen-Fan Chang** and Chao-Hung Lee, "[A DRL Based Spectrum Sharing Scheme for multi-MNO in 5G and Beyond](https://doi.org/10.1109/TNSM.2025.3562968)," *IEEE Transactions on Network and Service Management (TNSM)*.
 
 ### ⏳ Under Review / Revision
-1. **Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *(Minor revision at IEEE Transactions on Emerging Topics in Computing)*
+1. ~~**Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *(Minor revision at IEEE Transactions on Emerging Topics in Computing)*~~
 2. **Chen-Fan Chang**, Kai-Che Shih, Tse-Yang Huang, Yu-Chi Chen, Te-Chuan Chiu, "A Secure, Efficient, and Decentralized IoT Data Sharing and Search System: An Integrated Framework of IOTA, IPFS, and PRE." *(Minor revision at Peer-to-Peer Networking and Applications, Springer)*
 3. **Chen-Fan Chang**, Jhih-Siang Huang, Kai-Che Shih, Chen-Hao Kao, Yu-Chi Chen, and Te-Chuan Chiu, "ZKKD: Zero Knowledge Machine Learning Framework via Knowledge Distillation." *(Under review at IEEE Transactions on Dependable and Secure Computing)*
 
