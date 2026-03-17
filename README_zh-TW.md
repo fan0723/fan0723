@@ -1,3 +1,4 @@
+[03/17] 🎉 我們的論文 *Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction* 已正式被 IEEE Transactions on Emerging Topics in Computing (TETC) 接受！
 
 ## 關於我 (About Me)
 
@@ -27,7 +28,8 @@
 ## 著作發表 (Publications)
 
 ### 國際會議與期刊論文 (Accepted / Published)
-1. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by 2026 IEEE International Conference on Communications (IEEE ICC 2026)* 🇬🇧 **將赴英國發表**.
+1. **Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *Accepted by IEEE Transactions on Emerging Topics in Computing*
+2. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by 2026 IEEE International Conference on Communications (IEEE ICC 2026)* 🇬🇧 **將赴英國發表**.
    * **技術貢獻**：主導系統架構優化、定點數 zk-SNARK 演算法改寫與系統效能實驗驗證。
 2. Sheng-Chieh Hung, **Chen-Fan Chang**, Yu-Chi Chen, Yu-Ming Chang, Yu-Ta Lin, Michael Lin, "[Privacy-Enhancing LLM-Based Synthetic Dataset Generation by LoRA Fine-Tuning and Prompting](https://doi.org/10.1109/DSC65356.2025.11260873)," *2025 IEEE Conference on Dependable and Secure Computing (DSC)*. **(Best Poster Award)**
    * **技術貢獻**：參與實務架構構建與核心實現方法發想。
@@ -35,7 +37,7 @@
 4. Yi-Huai Hsu, **Chen-Fan Chang** and Chao-Hung Lee, "[A DRL Based Spectrum Sharing Scheme for multi-MNO in 5G and Beyond](https://doi.org/10.1109/TNSM.2025.3562968)," *IEEE Transactions on Network and Service Management (TNSM)*.
 
 ### 審查中論文 (Under Review / Revision)
-1. **Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *(Minor revision at IEEE Transactions on Emerging Topics in Computing)*
+1. ~~**Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *(Minor revision at IEEE Transactions on Emerging Topics in Computing)*~~
 2. **Chen-Fan Chang**, Kai-Che Shih, Tse-Yang Huang, Yu-Chi Chen, Te-Chuan Chiu, "A Secure, Efficient, and Decentralized IoT Data Sharing and Search System: An Integrated Framework of IOTA, IPFS, and PRE." *(Minor revision at Peer-to-Peer Networking and Applications, Springer)*
 3. **Chen-Fan Chang**, Jhih-Siang Huang, Kai-Che Shih, Chen-Hao Kao, Yu-Chi Chen, and Te-Chuan Chiu, "ZKKD: Zero Knowledge Machine Learning Framework via Knowledge Distillation." *(Under review at IEEE Transactions on Dependable and Secure Computing)*
 
