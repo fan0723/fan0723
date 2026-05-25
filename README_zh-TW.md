@@ -1,10 +1,10 @@
-[03/17] 🎉 我們的論文 *Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction* 已正式被 IEEE Transactions on Emerging Topics in Computing (TETC) 接受！
+[03/17] 🎉 Our paper *Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction* 已正式被 IEEE Transactions on Emerging Topics in Computing (TETC) 接受！
 
 ## 關於我 (About Me)
 
 我是國立清華大學資訊工程學系的博士生，致力於尋找密碼學理論與 AI 實際應用的交集。我的研究重心是透過零知識證明 (ZKP)、同態加密 (HE) 與差分隱私 (DP) 等技術，打造兼具效能與安全性的可驗證人工智慧 (Verifiable AI) 系統。
 
-我的學術旅程啟蒙於大學時期，在徐亦懷 (Yi-Huai Hsu) 教授的指導下專攻無線通訊網路。碩士階段，我進入北科大 CISLAB，在陳昱圻 (Yu-Chi Chen) 教授的帶領下，正式確立了隱私強化技術與密碼學的核心專長。目前於清大攻讀博士，我由邱德泉 (Te-Chuan Chiu) 教授指導，並持續與陳昱圻教授密切合作（共同指導），期許能將通訊與密碼學的底蘊，轉化為未來 AI 基礎設施的安全後盾。
+我的學術旅程啟蒙於大學時期，在徐亦懷 (Yi-Huai Hsu) 教授的指導下專攻無線通訊網路。碩士階段，我進入北科大 CISLAB，在陳昱圻 (Yu-Chi Chen) 教授的帶領下，正式確立了隱私強化技術與密碼學的核心專長。目前於清大攻讀博士，我由邱德泉 (Te-Chuan Chiu) 教授指導，並持續與陳昱圻教授密切合作（共同指導）。近期主要研究在於機器學習上的零知識證明、通訊領域中的可信任/機密運算、Diffusion model的證明浮水印(目前難產，歡迎與我討論![my mail](s114062805@m114.nthu.edu.tw)、與並行密碼學運算(仍在學習中)等。
 
 ## 實驗室之外 (Beyond the Lab)
 
@@ -29,8 +29,8 @@
 
 ### 國際會議與期刊論文 (Accepted / Published)
 1. **Chen-Fan Chang**, Kuan-Chun Huang, Bo-Jia Chen, and Yu-Chi Chen, "Privacy-preserving Outsourced Deep Neural Network Training: New Dual-cloud Framework and Efficient Construction." *Accepted by IEEE Transactions on Emerging Topics in Computing*
-2. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by 2026 IEEE International Conference on Communications (IEEE ICC 2026)* 🇬🇧 **將赴英國發表**.
-   * **技術貢獻**：主導系統架構優化、定點數 zk-SNARK 演算法改寫與系統效能實驗驗證。
+2. You-Siang Liao, **Chen-Fan Chang**, Te-Chuan Chiu, and Yu-Chi Chen, "Privacy-Preserving Verification of Secure Aggregation for Hierarchical Peer-to-Peer Federated Learning," *Accepted by 2026 IEEE International Conference on Communications (IEEE ICC 2026)* 🇬🇧 **將赴英國發表** (5/26 14:00-15:30 CISS-14).
+   * **技術貢獻**：主導系統架構優化與文章撰寫、定點數 zk-SNARK 演算法改寫與系統效能實驗驗證。
 2. Sheng-Chieh Hung, **Chen-Fan Chang**, Yu-Chi Chen, Yu-Ming Chang, Yu-Ta Lin, Michael Lin, "[Privacy-Enhancing LLM-Based Synthetic Dataset Generation by LoRA Fine-Tuning and Prompting](https://doi.org/10.1109/DSC65356.2025.11260873)," *2025 IEEE Conference on Dependable and Secure Computing (DSC)*. **(Best Poster Award)**
    * **技術貢獻**：參與實務架構構建與核心實現方法發想。
 3. Yi-Huai Hsu, **Chen-Fan Chang** and Chao-Hung Lee, "[Spectrum Sharing of Mobile Network Operators based on Deep Reinforcement Learning in 5G and beyond](https://doi.org/10.1109/GLOBECOM48099.2022.10000876)," *2022 IEEE Global Communications Conference (GLOBECOM 2022)*.
