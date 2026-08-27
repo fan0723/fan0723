@@ -12,7 +12,8 @@ My academic journey began during my undergraduate studies, where I focused on wi
 
 * 🎺 **Trumpeter:** I am an experienced trumpet player with numerous stage performances. I currently play for the wind bands of KNU, NTUT, and NYCU, and serve as an active trumpeter for the [Sonare Wind Orchestra](https://www.sonarewindorchestra.com/) and [Ark Wind Ensemble](https://www.instagram.com/arkwindensemble/). 
   🎵 *[Danzón No.2 with NYCU Wind Band](https://youtu.be/Sb0CP_gJaAQ?si=Mr9XqOmsl1LacXTp&t=454)*
-  🎵 *[The Divine Comedy: IV. Paradiso with Ark Wind Ensemble](https://www.instagram.com/reel/DVi4G2fk8Im/?igsh=MWRwYzlha2k0Mnp3dw==)*
+  🎵 *[The Divine Comedy: I. Inferno with Ark Wind Ensemble](https://youtu.be/S_rJdL8pHfU?si=zVVw7ItY2dqNf41R&t=320)*
+  🎵 *[The Divine Comedy: IV. Paradiso with Ark Wind Ensemble](https://youtu.be/S_rJdL8pHfU?si=ctMcMs8Q3fdCp2LI&t=1155)*
 
 * 🧗 **Bouldering:** A V4 climber! Currently recovering from an injury and trying to bounce back... 🥲
 
